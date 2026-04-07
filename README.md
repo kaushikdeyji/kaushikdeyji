@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on new projects.<br>Also, looking for a job
+I am currently working on a local AI Agent.<br>
+Also trying to make a financial automation tool.
+<br>But Most importantly, looking for a job
 
 
 ## 🌐 Socials:
